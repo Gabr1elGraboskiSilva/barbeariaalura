@@ -7,4 +7,9 @@ p {
  }
 em{
 color: blueviolet;
+ 
+}
+
+.banner {
+    width: 100%;
 }
