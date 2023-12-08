@@ -1,10 +1,7 @@
 p {
     text-align: center;
 }
- body{
-    background-color: #cccccc;
-
- }
+ 
 em{
 color: blueviolet;
  
@@ -22,3 +19,16 @@ color: blueviolet;
     background: #ffffff ;
     padding: 20px;
 }
+
+.principal {
+    background-color: #cccccc;
+    padding: 30px;
+}
+
+.tituloCentralizado {
+    
+}
+ul {display initial-block;
+width: 20%;
+margin-right: 15%;
+vertical-align: top;}
